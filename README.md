@@ -1,2 +1,2 @@
 # ee463-2
-Repository of Bahar and Onur for EE463 - Software Project 2
+Repository by Bahar and Onur for EE463 - Software Project 2
