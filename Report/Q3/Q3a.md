@@ -1,0 +1,2 @@
+	The topology given in Part 3.a is a 12-pulse rectifier. It is composed of two 6-pulse rectifiers connected in series and their AC supply is from a transformer with two secondary windings, one is delta and one is wye connected. Hence, a 30 degrees phase shift is produced between the two bridges. Which leads a symmetrically displaced 12 pulse in overall.
+	The 12-pulse rectifier is usually used in high voltage DC (HVDC) systems. It has less harmonics than 6-pulse rectifier, hence a lower THD.
